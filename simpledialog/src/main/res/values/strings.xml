@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Dialog</string>
+    <string name="simpledialog_loading_message">Espere por favor...</string>
+
+    <string name="simpledialog_error_title">Ups! Tenemos un problema</string>
+    <string name="simpledialog_message_button_positive">Aceptar</string>
+    <string name="simpledialog_confirm_button_positive">SI</string>
+    <string name="simpledialog_confirm_button_negative">NO</string>
+    <string name="simpledialog_retry_button_positive">Reintentar</string>
+    <string name="simpledialog_retry_button_negative">Cancelar</string>
+
+</resources>

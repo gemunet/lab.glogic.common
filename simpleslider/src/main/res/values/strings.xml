@@ -1,0 +1,5 @@
+<resources>
+    <string name="simpleslider_skip">Saltar</string>
+    <string name="simpleslider_next">Siguiente</string>
+    <string name="simpleslider_complete">¡Comencemos!</string>
+</resources>
